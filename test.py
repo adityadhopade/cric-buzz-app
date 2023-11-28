@@ -9,7 +9,7 @@ def fetch_live_score():
 
   headers = {
           "X-RapidAPI-Host": "cricbuzz-cricket.p.rapidapi.com",
-          "X-RapidAPI-Key": "f71d44d641msh67207d481cd7a4ep1b0fc0jsna791dcdf928f"  # Replace with your RapidAPI key
+          "X-RapidAPI-Key": "YOUR_API_KEY"  # Replace with your RapidAPI key
       }
   response = requests.get(url, headers=headers)
   # print(response.json())
