@@ -1,6 +1,9 @@
 # Live Cricbuzz Application using RapidAPI and Flask
 This Application is made from the Flask and Rapid API; showing the Recent matches and the Upcoming matches in the Flask Application
 
+![cricbuzz_image](https://github.com/adityadhopade/cric-buzz-app/assets/48392204/b971b594-88d4-4dd8-913f-cd92754d9cbd)
+
+
 ## 🌟 Key Tools and Moments 🌟
 - Creating the Rapid API Account
 - Using the Cricbuzz Cricket API (Without Credit Card Details)
